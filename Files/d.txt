@@ -1,0 +1,1 @@
+Web mining refers to the process of extracting useful and relevant information from web data sources, including web pages, web documents, web logs, and social media sites. It involves applying data mining and machine learning techniques to analyze and understand patterns and trends in large amounts of web dat
